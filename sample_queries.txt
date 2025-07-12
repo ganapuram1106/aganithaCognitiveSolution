@@ -1,0 +1,24 @@
+# Sample queries for PubMed Research Paper Fetcher
+# Lines starting with # are comments and will be ignored
+# One query per line
+
+cancer immunotherapy
+diabetes treatment
+COVID-19 vaccine
+Alzheimer's disease
+breast cancer
+lung cancer
+multiple sclerosis
+rheumatoid arthritis
+psoriasis
+depression treatment
+anxiety medication
+hypertension
+asthma treatment
+HIV treatment
+hepatitis C
+Parkinson's disease
+epilepsy
+migraine
+osteoporosis
+diabetic retinopathy 
